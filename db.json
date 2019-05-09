@@ -1,0 +1,1139 @@
+{
+  "venues": [
+    {
+      "id": "activities",
+      "title": "Actividades",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "atm",
+      "title": "Cajero automático",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "bar",
+      "title": "Bar",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "camping",
+      "title": "Zona de acampada",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "charging-station",
+      "title": "Estación de carga",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "entrance-exit",
+      "title": "Entrada / Salida",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "first-aid",
+      "title": "Primeros auxilios",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "food-drinks",
+      "title": "Comida y bebida",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "information",
+      "title": "Información",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "lost-found",
+      "title": "Objetos perdidos",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "merchandising",
+      "title": "Merchandising",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "parking",
+      "title": "Aparcamiento",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "recycling",
+      "title": "Reciclaje",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "restroom",
+      "title": "Baños",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "shower",
+      "title": "Ducha",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "stage",
+      "title": "Escenario",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "tickets",
+      "title": "Entradas",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "vip",
+      "title": "Zona VIP",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "water-fountain",
+      "title": "Fuente de agua",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "other",
+      "title": "Otros",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "accessibility",
+      "title": "ADA access",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "bus",
+      "title": "Bus/Shuttle stop",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "general-store",
+      "title": "General store",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "lockers",
+      "title": "Lockers",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "record-store",
+      "title": "Record store",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "train",
+      "title": "Train station",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "restaurant",
+      "external_id": "",
+      "title": "Restaurante",
+      "color": "#beb282",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "desk",
+      "external_id": "",
+      "title": "Welcome Desk",
+      "color": "#C8CBCC",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "premise",
+      "title": "RECINTO",
+      "color": "#C88C33",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    }
+  ],
+  "tags": [
+    {
+      "id": "electronic",
+      "tagType": "style",
+      "title": "Electronic",
+      "color": "#e8760d",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "flamenco",
+      "tagType": "style",
+      "title": "Flamenco",
+      "color": "#C7B9C4",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "pop",
+      "tagType": "style",
+      "title": "Pop",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    },
+    {
+      "id": "classic",
+      "tagType": "style",
+      "title": "Clásica",
+      "color": "",
+      "visibleOnList": true,
+      "visibleOnDetails": true
+    }
+  ],
+  "artists": [
+    {
+      "id": "178",
+      "section": "J",
+      "title": "JOSÉ MERCÉ & TOMATITO",
+      "subtitle": null,
+      "description": "<p>José Mercé and Tomatito will be at the Auditorium stage of Starlite Festival 2019 next Thursday, August 15 th presenting their new work in common \"De verdad\". The cantaor José Mercé and the guitarist Tomatito, two illustrious of the music and old friends, coincide once again with the production of this new album, that claims flamenco music as World Heritage, elevating it to the category it deserves. It will be a unique opportunity to be delighted with these two masters, full of art, next Thursday, August 15 th at Starlite Festival 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:7p5j8sfku9rulp7tca53g8" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": ["flamenco"],
+      "photo": {
+        "mosaic": "ds_178_20181129061018_8b099ebf",
+        "detail": "dt_178_20181129061018_8b099ebf",
+        "thumbnail": "th_178_20181129061018_8b099ebf"
+      }
+    },
+    {
+      "id": "179",
+      "section": "I",
+      "title": "IL DIVO",
+      "subtitle": null,
+      "description": "<p>Il Divo will be back performing at the Auditorium stage of Starlite Festival 2019 next<br />Friday, July 12 th .<br />The group, formed by Urs Bühler, Sèbastien Izambard, Carlos Marín and David Miller, has pioneered the genre of operatic pop in classical crossover music, remaining one of the millennium’s greatest musical phenomena. This time, they will be singing at Starlite Festival 2019 their most romantic and popular themes in an evocative show that the audience will remember forever. The vocal group will make of July 12 th a night to enjoy familiar songs as if it was the very first time.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:3knz9aojbajjmr6zr2vgfl" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_179_20181126073640_ae8ce219",
+        "detail": "dt_179_20181126073640_ae8ce219",
+        "thumbnail": "th_179_20181126073640_ae8ce219"
+      }
+    },
+    {
+      "id": "180",
+      "section": "R",
+      "title": "ROGER HODGSON \"Supertramp\"",
+      "subtitle": null,
+      "description": "<p><span>Roger Hodgson, the legendary singer and songwriter, will be performing Saturday, July 20 th at the Auditorium stage of Starlite Festival 2019.</span><br /><span>Cofounder of Supertramp, Roger Hodgson will attend Starlite Festival as part of hit ´Breakfast in America’ 40 th Anniversary World Tour, singing all the songs he wrote, sang and arranged most of the enduring rock standards that made Supertramp a worldwide phenomenon. Hodgson’s signature voice will bring an amazing show to sing and cheer with this rock star all night.</span></p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:3lhxm91pklq9sxi6corkwu" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_180_20181129024207_a94390d1",
+        "detail": "dt_180_20181129024207_a94390d1",
+        "thumbnail": "th_180_20181129024207_a94390d1"
+      }
+    },
+    {
+      "id": "181",
+      "section": "D",
+      "title": "DIANA KRALL",
+      "subtitle": null,
+      "description": "<p>The Canadian vocal artist Diana Krall will be performing at Starlite Festival 2019 next Thursday, July 25 th at the Auditorium stage of the quarry. Singer and pianist, Diana Krall will attend Starlite Festival to share with her audience the big hits that have made her a jazz reference. Singles such as “Only Trust Your Heart”, “All for You” or “Love Scenes”, and albums like “Stepping Out”, “When I look in your eyes” or “The look of love” are without a doubt proof of it. Krall’s acoustic-oriented jazz will star an extraordinary night at Starlite Festival 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:5z1vafwt35evvcp1xlzzul" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_181_20181126073604_670c9c3e",
+        "detail": "dt_181_20181126073604_670c9c3e",
+        "thumbnail": "th_181_20181126073604_670c9c3e"
+      }
+    },
+    {
+      "id": "182",
+      "section": "K",
+      "title": "KETAMA",
+      "subtitle": null,
+      "description": "<p>The renowned flamenco-fusion of Ketama will be performing next Thursday, August 8 th atthe Auditorium stage of Starlite Festival 2019.<br />After almost 15 years since their last concert, Antonio, Juan and Josemi Carmona are back together on stage. Their ultimate “No estamos locos Tour” will be in Starlite Festival, as well as their characteristic Ketamero sound and their most successful hits. On August 8 th, attendees of Starlite Festival 2019 will live an unforgettable flamenco night full of surprises and accompanied by the most rhythmic songs of the national scene.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:5s9ggx51pd0yhcsqrsylpf" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_182_20181126073703_394c4b28",
+        "detail": "dt_182_20181126073703_394c4b28",
+        "thumbnail": "th_182_20181126073703_394c4b28"
+      }
+    },
+    {
+      "id": "183",
+      "section": "M",
+      "title": "MANZANERO & MOCEDADES",
+      "subtitle": null,
+      "description": "<p>Armando Manzanero and Mocedades will be performing at Starlite Festival 2019 next Wednesday, August 14 th , during their joint tour Manzanero &amp; Mocedades.<br />Armando Manzanero will be back at Starlite Festival to sing classics such as \"Somos novios\" or “Esta tarde vi llover”, which constitute the most popular romantic soundtrack. Also Mocedades, the Spanish quintet from the seventies, will be performing on this tour with legendary songs like “Le llamaban loca” or “Dónde estás corazón”. It will be an incomparable night to pay tribute to music and love at the Auditorium stage of Starlite Festival.</p>",
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_183_20181126095302_ffddda56",
+        "detail": "dt_183_20181126095302_ffddda56",
+        "thumbnail": "th_183_20181126095302_ffddda56"
+      }
+    },
+    {
+      "id": "214",
+      "section": "D",
+      "title": "DAVID BISBAL",
+      "subtitle": null,
+      "description": "<p><span>David Bisbal will be back at the stage of Starlite Festival 2019 next Tuesday, August</span><br /><span>6 th .</span><br /><span>With the contagious optimism that characterizes him and with a totally renewed production, David Bisbal returns to the Auditorium stage of Starlite Festival 2019 to make the audience enjoy his spectacular live show. After his latest releases of immeasurable success such as \"A partir de Hoy\" or \"Perdón\", the singer will meet again with the Marbella audience in this show full of light at Starlite Festival 2019.</span></p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:5gojti4tussenizxhcg7jb" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_214_20181127074119_c2623b7c",
+        "detail": "dt_214_20181127074119_c2623b7c",
+        "thumbnail": "th_214_20181127074119_c2623b7c"
+      }
+    },
+    {
+      "id": "215",
+      "section": "R",
+      "title": "RAPHAEL",
+      "subtitle": null,
+      "description": "<p>Raphael will visit the Auditorium stage of Starlite Festival 2019 next Saturday, July 27 th , presenting his brand new album, \"RESinphónico\".<br />With this new work, Raphael revises in a symphonic and electronic style some of his most important successes, such as \"Una gran noche\", \"Escándalo\" or \"Yo soy aquél\".<br />After almost 60 years dedicated to music, the legendary voice of Raphael will make Starlite Festival 2019 vibrate, accompanied by Malaga’s Symphonic Orchestra. It will be a luxury to be able to enjoy this emblematic artist in a unique show on Saturday, July 27 th at Starlite Festival 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:796osrub0e9hq55utfl9u8" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_215_20181128120850_6f18c9cb",
+        "detail": "dt_215_20181128120850_6f18c9cb",
+        "thumbnail": "th_215_20181128120850_6f18c9cb"
+      }
+    },
+    {
+      "id": "218",
+      "section": "T",
+      "title": "THE BEACH BOYS",
+      "subtitle": null,
+      "description": "<p>The Beach Boys will be back at Starlite 2019, after attending the festival in 2014, next Thursday, July 11 th performing their latest “Now and Then Tour”.<br />The Beach Boys, led by Mike Love and Bruce Johnston, who, along with Jeffrey Foskett, Tim Bonhomme, John Cowsill, Keith Hubacher, Christian Love and Scott Totten continue the legacy of this iconic American band, will share with the audience the hits that made them ambassadors of the Californian way of life. Few acts can match The Beach Boys’ spirit and performance, and therefore it will be with no doubt a very special night at Starlite 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:3odbviiivrwhxwie8hxkvv" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_218_20181210105625_55612a99",
+        "detail": "dt_218_20181210105625_55612a99",
+        "thumbnail": "th_218_20181210105625_55612a99"
+      }
+    },
+    {
+      "id": "219",
+      "section": "L",
+      "title": "LOS MORANCOS",
+      "subtitle": null,
+      "description": "<p>Los Morancos will be performing at Starlite 2019 next Saturday, August 17 th with a show that celebrates the 40 th anniversary of the duo on stages.<br />Los Morancos celebrate 40 years of shows and their closest friends have decided to prepare a surprise party with the highlights of their careers and main characters. But something that seems so simple can become an odyssey if the people who organize the event are Omaíta and Antonia. Saturday, August 17 th will be a night dedicated to humour at Starlite 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:2694tynvkze7umvviefi5r" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_219_20181211094440_df3e9cac",
+        "detail": "dt_219_20181211094440_df3e9cac",
+        "thumbnail": "th_219_20181211094440_df3e9cac"
+      }
+    },
+    {
+      "id": "220",
+      "section": "G",
+      "title": "GOD SAVE THE QUEEN",
+      "subtitle": null,
+      "description": "<p><b>God Save The Queen</b>, the official music band chosen by 20th Century Fox &amp; Queen to promote the newest movie <b>“Bohemian Rhapsody”</b>, will be performing at <b>Starlite 2019 </b>next <b>Thursday, August 22nd</b>, reviving all the hits of the iconic band <b>Queen</b>.</p>\r\n<p>After their visit to the festival in 2016, <b>God Save The Queen </b>will be back in 2019 to make the Starlite audience enjoy <b>the most authentic tribute </b>to <b>Queen </b>of all times. The impressive lighting and the outstanding performances of the members of the group will make of <b>Thursday, August 22nd </b>a night to remember at <b>Starlite 2019</b>.</p>\r\n<p><b> </b></p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:1dfer4hawdbwqfhlkxsg1d" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_220_20190212122700_1347a40e",
+        "detail": "dt_220_20190212122700_1347a40e",
+        "thumbnail": "th_220_20190212122700_1347a40e"
+      }
+    },
+    {
+      "id": "221",
+      "section": "M",
+      "title": "MALUMA",
+      "subtitle": null,
+      "description": "<p><b>Maluma </b>will be performing at the <b>Auditorium stage </b>of <b>Starlite 2019 </b>next <b>Saturday, July 13th</b>.</p>\r\n<p>Leader of the urban genre and winner of countless awards and recognitions in the music industry, <b>Maluma </b>will make the <b>Starlite </b>audience dance in a show full of rhythm. His worldwide hits, like <b>\"El Préstamo\"</b>, <b>\"Borró Cassette\" </b>or <b>\"Mala Mía\" </b>have led him to reach on many occasions the first positions in the most popular lists. <b>On Saturday, July 13th</b>, the public of <b>Starlite 2019 </b>will witness an <b>unforgettable night </b>with one of the <b>most sensational artists </b>of the moment.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:1r4hj1h58cwwuqe3mxpuau" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_221_20190212122743_a3356697",
+        "detail": "dt_221_20190212122743_a3356697",
+        "thumbnail": "th_221_20190212122743_a3356697"
+      }
+    },
+    {
+      "id": "228",
+      "section": "M",
+      "title": "MORAT",
+      "subtitle": null,
+      "description": "<p>Morat will be back on the Auditorium Stage of Starlite 2019 on Monday, August 12 th.<br />After the success of their past two performances at the festival in 2017, the Colombian group formed by Juan Pablo Isaza, guitar and voice, Juan Pablo Villamil, guitar, banjo and voice, Martín Vargas, percussion and choirs, and Simón Vargas, bass and choirs, will make the Starlite audience dance again with their most well-known hits. It will be a unique opportunity to have fun with the energy that Morat spreads, on Monday, August 12 th at Starlite 2019.</p>",
+      "links": [
+        { "type": "spotify  ", "url": "spotify:artist:5c4pdr4lnhztbvnkwxudkd" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_228_20181211094639_fbf61665",
+        "detail": "dt_228_20181211094639_fbf61665",
+        "thumbnail": "th_228_20181211094639_fbf61665"
+      }
+    },
+    {
+      "id": "230",
+      "section": "M",
+      "title": "MELENDI",
+      "subtitle": null,
+      "description": "<p>Melendi, who after his amazing sold out closed down the seventh edition of Starlite 2018 in the best way possible, will be back on the Auditorium stage of the festival next Tuesday, July 30 th.<br />Under the title “Mi Cubo de Rubik”, album that will be released at the end of 2019 and from which the impressive “Besos a la Lona” single has already been announced, the songwriter and singer will be performing his new songs, without forgetting his innumerable hits, known by thousands of people. It will be an incredible night to enjoy one of the most outstanding figures of Spanish music in Starlite 2019.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:1exjxqpdx2proygh8zvhs4" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_230_20190125054020_e6d864f9",
+        "detail": "dt_230_20190125054020_e6d864f9",
+        "thumbnail": "th_230_20190125054020_e6d864f9"
+      }
+    },
+    {
+      "id": "234",
+      "section": "N",
+      "title": "NOCHE MOVIDA",
+      "subtitle": null,
+      "description": "<p><b>On Thursday, July 18th, the “Movida” of the 80s returns to Starlite with the show “Noche Movida”.</b></p>\r\n<p>Some of the most legendary artists of the decade of <b>the eighties and nineties</b>in Spain will go up on the <b>Auditorium stage</b>to make everyone enjoy <b>the great party of the season. Noche Movida</b>is a show that recovers <b>the most authentic essence of the 80s</b>, in which the artists who are part of the cast will bring that own sound that made them icons of the new wave and responsible for some of the best songs of Spanish pop, traveling with the audience back in time and moving its different generations.</p>\r\n<p><span> </span></p>",
+      "links": [
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_234_20181220114918_91dff59b",
+        "detail": "dt_234_20181220114918_91dff59b",
+        "thumbnail": "th_234_20181220114918_91dff59b"
+      }
+    },
+    {
+      "id": "236",
+      "section": "J",
+      "title": "JUAN MAGÁN",
+      "subtitle": null,
+      "description": "<p><b>Juan Magán</b>, the famous international DJ, will be back at <b>Starlite 2019</b>to <b>revolutionize the nights of Thursday July 18thand Tuesday August 13th</b>.</p>\r\n<p>The<b>king of the Electro Latin music will move the entire audience of the Sessions stage of Starlite</b>. The rhythm from his great hits will not leave anyone indifferent, always making of his sessions an authentic party in which the connection between the Dj and the public acquires a new dimension. New songs like <b>“Muñequita Linda”</b>, or the well-known ones <b>\"Le Encanta\"</b>, <b>“Usted”</b>or <b>\"Bailando por ahí\"</b>will make his nights for dancing.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:1ackd5xprzekh3mckbqd51" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_236_20181220113804_4994b0dc",
+        "detail": "dt_236_20181220113804_4994b0dc",
+        "thumbnail": "th_236_20181220113804_4994b0dc"
+      }
+    },
+    {
+      "id": "240",
+      "section": "M",
+      "title": "MANUEL CARRASCO",
+      "subtitle": null,
+      "description": "<p><b>Manuel Carrasco </b>will be back at the <b>Auditorium stage of Starlite 2019 for two times: on Friday July 5th, and on Tuesday August 20th</b>.</p>\r\n<p>After his acclaimed concerts at Starlite 2017, <b>the storyteller par excellence</b>, <b>Manuel Carrasco</b>, will return to the festival to star unforgettable shows full of his moving music and lyrics that characterize him so much. Composer, and with the amazing ability of converting words into verses and <b>transforming emotions into songs</b>, there is no doubt the singer will lead <b>two very special concerts at Starlite 2019</b>.</p>",
+      "links": [
+        { "type": "spotify", "url": "spotify:artist:7qaoxv4u0qdxqauqhszjaa" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_240_20190201040641_2226b63a",
+        "detail": "dt_240_20190201040641_2226b63a",
+        "thumbnail": "th_240_20190201040641_2226b63a"
+      }
+    },
+    {
+      "id": "243",
+      "section": "P",
+      "title": "PABLO LÓPEZ",
+      "subtitle": null,
+      "description": "<p><b>Pablo López </b>will be back at <b>Starlite 2019 </b>next <b>Wednesday, July 31st</b>.</p>\r\n<p>Since his debut in Starlite in 2018, the artist from Malaga will go once again on the <b>Auditorium stage</b>. Under his <b>Santa Libertad Tour</b>, <b>Pablo López </b>will offer a unique show at the festival presenting his album<b>\"Camino, fuego y libertad\"</b>, making everyone aware of <b>his talent, his privileged voice and his piano mastery</b>. <b>On Wednesday July 31st </b>it will be <b>one of the most awaited nights </b>of <b>Starlite 2019 </b>to enjoy <b>one of the most important authors and performers </b>in our country.</p>",
+      "links": [
+        { "type": "spotify ", "url": "spotify:artist:4uyqaiopedcldxu6zvylaz" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_243_20190218075824_01c32d22",
+        "detail": "dt_243_20190218075824_01c32d22",
+        "thumbnail": "th_243_20190218075824_01c32d22"
+      }
+    },
+    {
+      "id": "245",
+      "section": "M",
+      "title": "MIGUEL POVEDA",
+      "subtitle": null,
+      "description": "<p><b>Miguel Poveda</b>, one of the most personal and interesting flamenco voices, <b>will be performing at Starlite on Friday, August 9th. </b></p>\r\n<p> </p>\r\n<p>Without losing his <b>origins</b>, but also <b>without borders and with freedom as a flag</b>, Miguel Poveda has managed to build his career with love and perseverance, under the inspiration of the greats of music; finding among his numerous collaborations artists such as Paco de Lucía, Serrat, Alejandro Sanz or Chavela Vargas.</p>\r\n<p> </p>\r\n<p>Now, after almost <b>30 years dedicated to music</b>, <b>Miguel Poveda </b>will share his talent on the Auditorium stage to delight his audience, from whom he has always collected their <b>recognition and criticism with humility and gratitude</b>, but also with the <b>commitment to get better every day</b>.</p>\r\n<p><b> </b></p>\r\n<p><b>Friday, August 9th </b>will be a night to enjoy one of the most relevant artists of the music scene, at <b>Starlite 2019</b>.</p>",
+      "links": [
+        { "type": "spotify ", "url": "spotify:artist:0bwjxwhtct80qp5xk7pxzj" },
+        {
+          "type": "facebook",
+          "url": "https://www.facebook.com/starlitefestival/"
+        },
+        {
+          "type": "instagram",
+          "url": "https://www.instagram.com/starlitefestival/?hl=en"
+        },
+        {
+          "type": "twitter",
+          "url": "https://twitter.com/starlitefest?lang=en"
+        },
+        {
+          "type": "youtube",
+          "url": "https://www.youtube.com/user/starlitefestival"
+        }
+      ],
+      "tagIds": [],
+      "photo": {
+        "mosaic": "ds_245_20190207041817_5b760f68",
+        "detail": "dt_245_20190207041817_5b760f68",
+        "thumbnail": "th_245_20190207041817_5b760f68"
+      }
+    }
+  ],
+  "shows": [
+    {
+      "id": "185",
+      "actorId": "178",
+      "actorType": "artist",
+      "startDate": "2019-08-15",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-15",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/mercetomatito2019?idioma=EN#utm_source=MERCE%20Y%20TOMATITO&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "186",
+      "actorId": "179",
+      "actorType": "artist",
+      "startDate": "2019-07-12",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-12",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/illdivo2019?idioma=EN#utm_source=IL%20DIVO&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "187",
+      "actorId": "180",
+      "actorType": "artist",
+      "startDate": "2019-07-20",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-20",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/rogerhodgson2019?idioma=EN#utm_source=ROGER%20HOGDSON&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "188",
+      "actorId": "181",
+      "actorType": "artist",
+      "startDate": "2019-07-25",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-25",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/dianakrall2019?idioma=EN#utm_source=Artista%20Diana%20Krall&utm_campaign=Diana%20Krall",
+      "venue": "stage"
+    },
+    {
+      "id": "189",
+      "actorId": "182",
+      "actorType": "artist",
+      "startDate": "2019-08-08",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-08",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/ketama2019?idioma=EN#utm_source=KETAMA&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "190",
+      "actorId": "183",
+      "actorType": "artist",
+      "startDate": "2019-08-14",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-14",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/manzaneroymocedades2019?idioma=ESidioma=EN#utm_source=MANZANERO&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "216",
+      "actorId": "214",
+      "actorType": "artist",
+      "startDate": "2019-08-06",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-06",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/bisbal2019?idioma=EN#utm_source=BISBAL&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "217",
+      "actorId": "215",
+      "actorType": "artist",
+      "startDate": "2019-07-27",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-27",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/raphael2019?idioma=EN#utm_source=ARTISTA%20RAPHAEL&utm_campaign=RAPHAEL",
+      "venue": "stage"
+    },
+    {
+      "id": "222",
+      "actorId": "218",
+      "actorType": "artist",
+      "startDate": "2019-07-11",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-11",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/beachboys2019?idioma=EN#utm_source=THE%20BEACH%20BOYS&utm_campaign=APP",
+      "venue": "stage"
+    },
+    {
+      "id": "223",
+      "actorId": "219",
+      "actorType": "artist",
+      "startDate": "2019-08-17",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-17",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/morancos2019?idioma=EN#utm_source=APP&utm_campaign=LOS%20MORANCOS",
+      "venue": "stage"
+    },
+    {
+      "id": "224",
+      "actorId": "220",
+      "actorType": "artist",
+      "startDate": "2019-08-22",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-22",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/godsavethequeen2019?idioma=EN#utm_source=APP&utm_campaign=GOD%20SAVE%20THE%20QUEEN",
+      "venue": "stage"
+    },
+    {
+      "id": "225",
+      "actorId": "221",
+      "actorType": "artist",
+      "startDate": "2019-07-13",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-13",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/maluma2019?idioma=EN#utm_source=APP&utm_campaign=MALUMA",
+      "venue": "stage"
+    },
+    {
+      "id": "229",
+      "actorId": "228",
+      "actorType": "artist",
+      "startDate": "2019-08-12",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-12",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/morat2019?idioma=EN&utm_source=APP&utm_campaign=MORAT",
+      "venue": "stage"
+    },
+    {
+      "id": "231",
+      "actorId": "230",
+      "actorType": "artist",
+      "startDate": "2019-07-30",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-30",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/melendi2019?idioma=EN&utm_source=APP&utm_campaign=MELENDI",
+      "venue": "stage"
+    },
+    {
+      "id": "235",
+      "actorId": "234",
+      "actorType": "artist",
+      "startDate": "2019-07-18",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-18",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/nochemovida2019?idioma=EN&idioma=EN",
+      "venue": "stage"
+    },
+    {
+      "id": "238",
+      "actorId": "236",
+      "actorType": "artist",
+      "startDate": "2019-08-14",
+      "startTime": "02:00:00",
+      "endDate": "",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/juanmagan13agosto?idioma=EN&idioma=EN",
+      "venue": "stage"
+    },
+    {
+      "id": "239",
+      "actorId": "236",
+      "actorType": "artist",
+      "startDate": "2019-07-19",
+      "startTime": "02:00:00",
+      "endDate": "",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/juanmagan18julio2019?idioma=EN&idioma=EN",
+      "venue": "stage"
+    },
+    {
+      "id": "241",
+      "actorId": "240",
+      "actorType": "artist",
+      "startDate": "2019-08-20",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-20",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://starlitemarbella.koobin.com/manucarrasco2019?idioma=EN&idioma=EN",
+      "venue": "stage"
+    },
+    {
+      "id": "242",
+      "actorId": "240",
+      "actorType": "artist",
+      "startDate": "2019-07-05",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-05",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "http://bit.ly/2WxQPt7",
+      "venue": "stage"
+    },
+    {
+      "id": "244",
+      "actorId": "243",
+      "actorType": "artist",
+      "startDate": "2019-07-31",
+      "startTime": "22:00:00",
+      "endDate": "2019-07-31",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "http://bit.ly/2RGdb7X",
+      "venue": "stage"
+    },
+    {
+      "id": "246",
+      "actorId": "245",
+      "actorType": "artist",
+      "startDate": "2019-08-09",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-09",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "http://bit.ly/2DldQH8",
+      "venue": "stage"
+    },
+    {
+      "id": "249",
+      "actorId": "243",
+      "actorType": "artist",
+      "startDate": "2019-08-19",
+      "startTime": "22:00:00",
+      "endDate": "2019-08-19",
+      "endTime": null,
+      "sortOrder": null,
+      "price": "",
+      "ticketUrl": "https://goo.gl/Pai5bn",
+      "venue": "stage"
+    }
+  ]
+}
